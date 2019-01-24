@@ -1,6 +1,6 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://chenluily0451.github.io/mobileRebound/ft.html)  
+点击链接查看 [click me](https://chenluily0451.github.io/mobileRebound/ft.html)  
 在移动端 Touch事件可以细分成三种，分别是： touchstart、 touchmove和 touchend，并且 touch事件必须要用 addEventListener去监听。
 
 touchStart当手指触碰到屏幕的时候触发
